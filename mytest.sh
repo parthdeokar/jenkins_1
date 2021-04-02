@@ -5,3 +5,5 @@ echo "bye"
 echo "new code add"
 echo "Adding new trigger auto"
 echo "hello"
+echo "testing "
+date
